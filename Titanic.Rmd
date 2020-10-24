@@ -155,4 +155,3 @@ tab2
 ```
 
 
-here are the predictions of our survivors :
